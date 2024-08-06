@@ -19,6 +19,8 @@ By analyzing Global Electronics' customer, product, sales, and store data, one c
 
 ### Data Sources:
 
+Contains sales data only from to 1/1/2016 to 2/20/2021
+
 1. Customer data (customers.csv): Contains information about customers such gender, D.O.B, and demographics, used for analyzing customer behavior and segmentation.
 2. Sales data (sales.csv): Includes records of transactions, such as number of sales, product ID, it's quantities, order date, delivery date, store ID, and currency essential for understanding sales patterns and performance.
 3. Products data (products.csv): Lists product details including IDs, names, categories, subcategory, unit prices, unit costs helping to analyze product performance and trends.
@@ -87,6 +89,7 @@ The analysis results are summarized as follows
 11. Store Wise: The Online Store leads with 20.45% of total sales among 67 stores and has generated around 11 million USD.
 12. Store age and size: There is no co-relation between the revenue and store's age and store's size
 13. Stores with No orders: There are 9 stores with no orders, these stores could either include target campaigns or be closed to focus more on online sales as it spearheads the sales.
+14. Time analysis: It can be infered from all the years that lowest performing month is April with the top 3 being December, January, and February with increasing over the years.
 
 ## Power BI Reports
 
