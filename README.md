@@ -81,14 +81,14 @@ The analysis results are summarized as follows
 3. State wise: Analysis also shows strong customer bases in major U.S. states, as well as significant interest from Canada and Germany. This provides valuable insights into market concentration and potential areas for targeted engagement and expansion.
 4. Customers with No Orders: There are 3379 customers with no orders that could generate around an additional revenue of 15 million USD with targeted campaigns.
 5. Age wise: The analysis reveals that the majority of customers are aged 60 and above. This demographic trend suggests a significant interest and engagement from older adults.
-6. Frequency of customer visits: Most customer visits around 5-10 visits, while the visits between 1-5 and >10 are split evenly. Based on customers engagement levels, we can create targeted marketing campaigns that resonate with different segments, thereby enhancing customer engagement and optimizing advertising efforts.
-7. Currency wise : We can infer that most customers use USD, with significant numbers also using EUR and GBP indicating their region as well. Also, there is notable interest from Canadian and Australian markets, indicating a diverse international customer base. Further, there is indication that changes in exchange rates for AUD, CAD, EUR, and GBP have minimal to no effect on the revenue in USD.
-8. Category and subcategory wise : Computers lead this category with 41.75% of orders with the number being 10,990 orders among 8 categories and has generated 19 million USD in revenue or 36.62 %. The subcategory Desktops lead the subcategory as well with 9.9 million USD in revenue.
-9. Brand wise: Adventure Works, Contoso, and Wide World Importers lead the brands making more than 5 million USD in revenue each.
+6. Frequency of customer visits: Most customer visits around 5 to 10 , while the visitors between 1 to 5 and >10 are split evenly. Based on customers engagement levels, we can create targeted marketing campaigns that resonate with different segments, thereby enhancing customer engagement and optimizing advertising efforts.
+7. Currency wise : We can infer that most customers use USD, with significant numbers also using EUR and GBP indicating their region as well. Also, there is notable interest from Canadian and Australian markets, indicating a diverse international customer base. In regard to exchange rates, there is indication that changes in exchange rates for AUD, CAD, EUR, and GBP have minimal to no effect on the revenue in USD.
+8. Category and subcategory wise : Computers lead this category with 41.75% of orders numbering 10,990 among 8 categories and has generated 19 million USD or 36.62 %. The subcategory Desktops lead the subcategory as well with 9.9 million USD in revenue.
+9. Brand wise: Adventure Works, Contoso, and Wide World Importers lead the brands section, making more than 5 million USD each.
 10. Product wise: The top product sold was WWI Desktop PC.33 X2330 Black selling 550 quantities and making around .51 million USD. This is followed by desktop products from Adventure works as well in the top 5 making around 0.40 million USD each.
 11. Store Wise: The Online Store leads with 20.45% of total sales among 67 stores and has generated around 11 million USD.
-12. Store age and size: There is no co-relation between the revenue and store's age and store's size
-13. Stores with No orders: There are 9 stores with no orders, these stores could either include target campaigns or be closed to focus more on online sales as it spearheads the sales.
+12. Store age and size: There is no co-relation between the revenue and store's age and store's size.
+13. Stores with No orders: There are 9 stores with no orders, these stores could either include targeted campaigns or be closed to focus more on online sales as it spearheads the sales.
 14. Time analysis: It can be infered from all the years that lowest performing month is April with the top 3 being December, January, and February with an increasing revenue year wise.
 
 ## Power BI Reports
