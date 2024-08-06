@@ -89,7 +89,7 @@ The analysis results are summarized as follows
 11. Store Wise: The Online Store leads with 20.45% of total sales among 67 stores and has generated around 11 million USD.
 12. Store age and size: There is no co-relation between the revenue and store's age and store's size.
 13. Stores with No orders: There are 9 stores with no orders, these stores could either include targeted campaigns or be closed to focus more on online sales as it spearheads the sales.
-14. Time analysis: It can be infered from all the years that lowest performing month is April with the top 3 being December, January, and February with an increasing revenue year wise.
+14. Time analysis: It can be infered from all the years that the lowest performing month is April with the top 3 being December, January, and February. Year wise, there is strong indication of revenue increase yearly.
 
 ## Power BI Reports
 
