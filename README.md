@@ -40,4 +40,7 @@ Category Analysis: Analyze sales performance across different product categories
 Store Performance: Evaluate store performance based on sales, size (square meters), and operational data (open date).
 Geographical Analysis: Analyze sales by store location to identify high-performing regions.
 
+## Power BI Reports 
+
+![CHEESE!](DataSparkHP.png)
 
