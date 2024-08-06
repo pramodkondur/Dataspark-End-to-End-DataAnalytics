@@ -43,4 +43,9 @@ Geographical Analysis: Analyze sales by store location to identify high-performi
 ## Power BI Reports 
 
 ![CHEESE!](DataSparkHP.png)
+![CHEESE!](Yearly.png)
+![CHEESE!](Customers.png)
+![CHEESE!](Stores.png)
+![CHEESE!](Product.png)
+
 
