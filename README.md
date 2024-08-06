@@ -2,7 +2,7 @@
 # DataSpark: Illuminating Insights for Global Electronics
 
 ## Problem Statement:
-As part of Global Electronics' data analytics team, you are tasked with conducting a comprehensive Exploratory Data Analysis (EDA) to uncover valuable insights from the company’s data. Your goal is to provide actionable recommendations that can enhance customer satisfaction, optimize operations, and drive overall business growth.
+As part of Global Electronics' data analytics team, the goal is to conduct a comprehensive Exploratory Data Analysis (EDA) to uncover valuable insights from the company’s data. The goal is to provide actionable recommendations that can enhance customer satisfaction, optimize operations, and drive overall business growth.
 Global Electronics, a leading retailer of consumer electronics, has provided you with several datasets containing information about their customers, products, sales, stores, and currency exchange rates. The company seeks to leverage this data to better understand their business and identify areas for improvement.
 
 ## Business Use Cases:
@@ -10,16 +10,16 @@ By analyzing Global Electronics' customer, product, sales, and store data, we ai
 
 ## Approach:
 ### Data Cleaning and Preparation
-Check for missing values and handle them appropriately.
-Convert data types where necessary (e.g., dates, numerical values).
-Merge datasets where necessary for analysis (e.g., linking sales data with product and customer data).
+Checking for missing values and handle them appropriately.
+Converting data types where necessary (e.g., dates, numerical values).
+Merging datasets where necessary for analysis (e.g., linking sales data with product and customer data).
 ### Load Data
-Insert the preprocessed data into an SQL database by creating relevant tables for each data source and using SQL INSERT statements to load the data.
+Inserting the preprocessed data into an SQL database by creating relevant tables for each data source and using SQL INSERT statements to load the data.
 ### Power BI Visualization
- Connect SQL to Power BI/Tableau, import the data, and create interactive dashboards.
+ Connecting SQL to Power BI/Tableau, import the data, and create interactive dashboards.
 
 ### Develop SQL Queries
-Formulate and execute SQL queries to extract key insights from the data. These queries should address important business questions and support the analysis steps below.
+Formulating and executing SQL queries to extract key insights from the data. These queries should address important business questions and support the analysis steps below.
 
 ## Analysis Steps:
 
@@ -39,4 +39,5 @@ Category Analysis: Analyze sales performance across different product categories
 ### Store Analysis
 Store Performance: Evaluate store performance based on sales, size (square meters), and operational data (open date).
 Geographical Analysis: Analyze sales by store location to identify high-performing regions.
+
 
