@@ -19,6 +19,7 @@ By analyzing Global Electronics' customer, product, sales, and store data, one c
 
 ### Data Sources:
 
+link: https://www.kaggle.com/datasets/bhavikjikadara/global-electronics-retailers
 Contains sales data from 1/1/2016 to 2/20/2021
 
 1. Customer data (customers.csv): Contains information about customers such gender, D.O.B, and demographics, used for analyzing customer behavior and segmentation.
